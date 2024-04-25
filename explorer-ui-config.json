@@ -1,0 +1,6 @@
+{
+  "polkadot": {
+    "substrateRpcUrlArray": ["wss://explorer.devolvedai.com"],
+    "explorerWsUrlArray": ["ws://loalhost:8000/graphql-ws"]
+  }
+}
